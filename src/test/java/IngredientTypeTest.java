@@ -1,6 +1,5 @@
-import net.bytebuddy.build.ToStringPlugin;
 import org.junit.Test;
-import praktikum.IngredientType;
+import example.IngredientType;
 
 import static org.junit.Assert.assertEquals;
 

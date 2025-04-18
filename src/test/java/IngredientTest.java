@@ -1,10 +1,10 @@
 import org.junit.Before;
 import org.junit.Test;
-import praktikum.Ingredient;
-import praktikum.IngredientType;
+import example.Ingredient;
+import example.IngredientType;
 
 import static org.junit.Assert.assertEquals;
-import static praktikum.IngredientType.SAUCE;
+import static example.IngredientType.SAUCE;
 
 public class IngredientTest {
     Ingredient ingredient;

@@ -1,7 +1,7 @@
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
-import praktikum.Bun;
+import example.Bun;
 
 import static org.junit.Assert.assertEquals;
 
